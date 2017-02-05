@@ -1,5 +1,8 @@
 <?php
-echo("Hello World");
-echo(1+1/0.5*1/3*3.1412);
-phpinfo();
+$a="234";
+$arr=array(0=>'A',2=>'B');
+$arr[1]='C';
+$arr[]='D';
+$arr['kiet']='tuan';
+print_r($arr['kiet']);
 ?>
