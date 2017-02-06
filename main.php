@@ -65,4 +65,5 @@ function lonNhat($a,$b){
 }
 echo('<br/>'.lonNhat(2,lonNhat(4,7)).'<br/>');
 
+
 ?>
